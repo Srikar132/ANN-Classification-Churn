@@ -3,4 +3,5 @@ pandas
 numpy
 tensorboard
 matplotlib
+scikit-learn
 streamlit
